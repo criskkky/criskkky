@@ -11,5 +11,5 @@
 </div>
  <hr/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,astro,python,lua,cs,cpp,c,ps,pwsh,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,tailwind,nodejs,vercel,cloudflare,python,lua,c,discord,ps,pwsh,vscode&theme=dark" />
 </p>
