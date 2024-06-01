@@ -1,4 +1,10 @@
 <p align="center">
+<img src="https://api.statusbadges.me/badge/status/404372759028957231?simple=true" alt="status">
+<img src="https://api.statusbadges.me/badge/playing/404372759028957231" alt="playing">
+<img src="https://api.statusbadges.me/badge/vscode/404372759028957231" alt="vscode">
+<a href="https://api.statusbadges.me/openspotify/404372759028957231" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/404372759028957231" alt="spotify"></a>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=criskkky&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=Github%20Stats%20from%20@criskkky&border_radius=10" alt="GitHub Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criskkky&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" height="150">
 </p>
