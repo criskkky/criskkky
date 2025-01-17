@@ -29,3 +29,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,ps,discord,python,cpp,c,docker,react,vite,mongodb&theme=dark" />
   </a>
 </p>
+
+> [!IMPORTANT]
+> **AVAILABLE FOR FREELANCE HIRING**
